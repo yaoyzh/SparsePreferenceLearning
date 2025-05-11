@@ -41,3 +41,15 @@ python run_trans.py shpllama1b
 ```
 
 and then run `plotLast.ipynb`. 
+
+## Citation
+Please cite our paper if you find this work useful:
+
+```bibtex
+@inproceedings{yao2025sparse,
+  title     = {Leveraging Sparsity for Sample-Efficient Preference Learning: A Theoretical Perspective},
+  author    = {Yunzhen Yao, Lie He, Michael Gastpar},
+  booktitle = {Proceedings of the 42nd International Conference on Machine Learning (ICML)},
+  year      = {2025}
+}
+```
